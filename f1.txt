@@ -5,3 +5,4 @@ line 3 added
 Line 4 added at local
 
 Line 5 for branch files only!
+Changed at remote!
